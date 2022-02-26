@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
       location = "group:Flix Clone Assignment 1.xcodeproj">
    </FileRef>
    <FileRef
